@@ -1,0 +1,10 @@
+# Site settings
+title: Miles Hiroo 
+email: hello@mileshiroo.info 
+description: "Portfolio site of Miles Hiroo."
+baseurl: "" 
+url: "http://mileshiroo.info" 
+twitter_username: mileshiroo 
+
+# Build settings
+markdown: kramdown
