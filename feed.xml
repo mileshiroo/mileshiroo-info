@@ -5,15 +5,14 @@
     <description>Portfolio site of Miles Hiroo.</description>
     <link>http://mileshiroo.info/</link>
     <atom:link href="http://mileshiroo.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Mar 2016 19:32:17 +0800</pubDate>
-    <lastBuildDate>Sun, 20 Mar 2016 19:32:17 +0800</lastBuildDate>
+    <pubDate>Sun, 20 Mar 2016 20:54:19 +0800</pubDate>
+    <lastBuildDate>Sun, 20 Mar 2016 20:54:19 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title></title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/students/miles/images/underkey-small.jpg&quot; alt=&quot;underkey&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;underkey: 130 images of a keyboard captured with a microscope, then stitched together&lt;/p&gt;
+        <title>Underkey</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/students/miles/images/underkey-small.jpg&quot; alt=&quot;underkey&quot; /&gt;
+under the keys of a public keyboard&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/golanlevin/ExperimentalCapture/blob/master/students/miles/images/underkey.png&quot;&gt;full image (21.3 MB)&lt;/a&gt;&lt;/p&gt;
 
@@ -26,20 +25,64 @@
       </item>
     
       <item>
-        <title></title>
+        <title>Feed on Feed</title>
         <description>&lt;div class=&quot;videocontainer square&quot;&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/158048692?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;videocontainer square&quot;&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/157386935?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;videocontainer square&quot;&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/157386698?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 19 Mar 2016 00:00:00 +0800</pubDate>
-        <link>http://mileshiroo.info/2016/03/19/dreamcast.html</link>
-        <guid isPermaLink="true">http://mileshiroo.info/2016/03/19/dreamcast.html</guid>
+        <link>http://mileshiroo.info/2016/03/19/feed.html</link>
+        <guid isPermaLink="true">http://mileshiroo.info/2016/03/19/feed.html</guid>
         
         
       </item>
     
       <item>
-        <title></title>
+        <title>Self Aware</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/DGlnKd6.png&quot; alt=&quot;self aware&quot; /&gt; 
+Use this app to become self aware while you use your computer.&lt;/p&gt;
+
+&lt;p&gt;Self Aware overlays your face on your screen, so you can be aware of yourself while you use your computer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/29p28k2zwzi5usd/self-aware.zip?dl=0&quot;&gt;download Self Aware for OSX&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Mar 2016 00:00:00 +0800</pubDate>
+        <link>http://mileshiroo.info/2016/03/18/selfaware.html</link>
+        <guid isPermaLink="true">http://mileshiroo.info/2016/03/18/selfaware.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mac Book</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/2D83DxL.png&quot; alt=&quot;mac book&quot; /&gt;
+Use this app to read PDFs without getting distracted.&lt;/p&gt;
+
+&lt;p&gt;If you want to read a PDF on your computer without getting distracted, you can use this app to block everything except the PDF you’re currently reading.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/2dnt3hfssqtahy0/Mac%20Book.zip?dl=1&quot;&gt;1) download and open Mac Book (for OSX)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2) choose a PDF to read&lt;/p&gt;
+
+&lt;p&gt;3) set the duration of your session&lt;/p&gt;
+
+&lt;p&gt;4) read&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Mar 2016 00:00:00 +0800</pubDate>
+        <link>http://mileshiroo.info/2016/03/18/macbook.html</link>
+        <guid isPermaLink="true">http://mileshiroo.info/2016/03/18/macbook.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ee Ja Nai Ka</title>
         <description>&lt;div class=&quot;videocontainer rect&quot;&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/148658177?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;
 Ee Ja Nai Ka were carnivalesque celebrations that occurred at the end of the Edo period in Japan, from June 1867 to May 1868. Paper talismans fell from the sky and served as a pretext for frenzied dancing and orgiastic behavior. The Ee Ja Nai Ka movement can be read as a form of protest during a tense period of transition on the eve of Japan’s modernization. It stems from a utopian belief in Yonaoshi, or world renewal, which promised improved conditions for peasants living in abject poverty.&lt;/p&gt;
@@ -48,6 +91,29 @@ Ee Ja Nai Ka were carnivalesque celebrations that occurred at the end of the Edo
         <pubDate>Thu, 17 Mar 2016 00:00:00 +0800</pubDate>
         <link>http://mileshiroo.info/2016/03/17/eejanaika.html</link>
         <guid isPermaLink="true">http://mileshiroo.info/2016/03/17/eejanaika.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>partspartsparts</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/pPFcRCs.jpg&quot; alt=&quot;partspartsparts&quot; /&gt; 
+partspartsparts was a website that allowed participants to capture and organize animations of body parts.&lt;/p&gt;
+
+&lt;p&gt;The project now exists as an archive of GIFs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/cehm9s98757mta5/parts.zip?dl=0&quot;&gt;&lt;img src=&quot;http://i.imgur.com/fQGFJMq.png&quot; alt=&quot;1&quot; /&gt;&lt;/a&gt;
+590 parts, 253MB&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/6wkzzv0blhwgu7m/partsparts.zip?dl=0&quot;&gt;&lt;img src=&quot;http://i.imgur.com/i3syzIC.png&quot; alt=&quot;2&quot; /&gt;&lt;/a&gt;
+206 parts, 73MB&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/d1tddvunh0g2zi1/partspartsparts.zip?dl=0&quot;&gt;&lt;img src=&quot;http://i.imgur.com/3VN7adL.png&quot; alt=&quot;3&quot; /&gt;&lt;/a&gt;
+196 parts, 61MB&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 +0800</pubDate>
+        <link>http://mileshiroo.info/2016/02/01/partspartsparts.html</link>
+        <guid isPermaLink="true">http://mileshiroo.info/2016/02/01/partspartsparts.html</guid>
         
         
       </item>

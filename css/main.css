@@ -66,12 +66,9 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #000000;
+  color: gray;
   text-decoration: none; }
-  a:visited {
-    color: black; }
   a:hover {
-    color: #111;
     text-decoration: underline; }
 
 /**
@@ -196,12 +193,19 @@ pre {
   font-size: 12px;
   line-height: 30px; }
   .site-title a:link, .site-title a:visited, .site-title a:hover, .site-title a:active {
+    color: #000000;
     font-weight: 300; }
 
 .site-contact {
   font-size: 12px;
   font-weight: 300; }
   .site-contact a:link, .site-contact a:visited, .site-contact a:hover, .site-contact a:active {
+    color: #9c9c9c; }
+
+.site-posts {
+  font-size: 12px;
+  font-weight: 300; }
+  .site-posts a:link, .site-posts a:visited, .site-posts a:hover, .site-posts a:active {
     color: #9c9c9c; }
 
 .site-nav {
@@ -314,8 +318,6 @@ pre {
 .post-list {
   margin-left: 0;
   list-style: none; }
-  .post-list > li {
-    margin-bottom: 30px; }
 
 .post-meta {
   font-size: 13px;
