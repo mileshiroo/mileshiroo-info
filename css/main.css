@@ -169,7 +169,7 @@ pre {
 .site-header {
   min-height: 56px;
   position: relative;
-  top: 30px;
+  top: 20px;
   background-color: #FFFFFF;
   box-shadow: 2px 2px 9px #999999;
   z-index: 5; }
@@ -193,7 +193,6 @@ pre {
       padding-left: 15px; } }
 
 .site-title {
-  margin-top: 10px;
   font-size: 12px;
   line-height: 30px; }
   .site-title a:link, .site-title a:visited, .site-title a:hover, .site-title a:active {
