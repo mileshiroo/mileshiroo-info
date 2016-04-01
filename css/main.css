@@ -130,6 +130,9 @@ pre {
   display: table;
   clear: both; }
 
+th, td {
+  padding: 5px; }
+
 /**
  * Icons
  */
