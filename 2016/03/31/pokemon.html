@@ -90,7 +90,11 @@
 
 <script>
 $(function() {
-    $("img.lazy").Lazy();
+    $("img.lazy").Lazy({
+          effect: "fadeIn",
+          effectTime: 400,
+          threshold: 0
+        });
 });
 </script>
 
