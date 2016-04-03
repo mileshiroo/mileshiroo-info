@@ -5,8 +5,8 @@
     <description>Portfolio site of Miles Hiroo.</description>
     <link>http://mileshiroo.info/</link>
     <atom:link href="http://mileshiroo.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Apr 2016 22:38:36 +0800</pubDate>
-    <lastBuildDate>Sun, 03 Apr 2016 22:38:36 +0800</lastBuildDate>
+    <pubDate>Sun, 03 Apr 2016 23:34:34 +0800</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2016 23:34:34 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -14,6 +14,12 @@
         <description>&lt;p&gt;Pokemon lack flesh and internal organs. You played Pokemon for hundreds of hours and didn’t notice their bones.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.models-resource.com/3ds/pokemonxy/&quot;&gt;models and bones ripped from Pokemon X and Y&lt;/a&gt;&lt;/p&gt;
+
+&lt;script&gt;
+$(function() {
+    $(&quot;img.lazy&quot;).Lazy();
+});
+&lt;/script&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Bulbasaur&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
@@ -554,12 +560,6 @@
 &lt;caption align=&quot;bottom&quot;&gt;Mew&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
 &lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/151_mew.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
-
-&lt;script&gt;
-$(function() {
-    $(&quot;img.lazy&quot;).Lazy();
-});
-&lt;/script&gt;
 
 </description>
         <pubDate>Thu, 31 Mar 2016 00:00:00 +0800</pubDate>
