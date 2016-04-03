@@ -5,8 +5,8 @@
     <description>Portfolio site of Miles Hiroo.</description>
     <link>http://mileshiroo.info/</link>
     <atom:link href="http://mileshiroo.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Apr 2016 01:34:06 +0800</pubDate>
-    <lastBuildDate>Mon, 04 Apr 2016 01:34:06 +0800</lastBuildDate>
+    <pubDate>Mon, 04 Apr 2016 02:05:28 +0800</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2016 02:05:28 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -27,542 +27,547 @@ $(function() {
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Bulbasaur&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/001_bulbasaur.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/7fV6nwX.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Ivysaur&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/002_ivysaur.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/soVNUm8.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Venusaur&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/003_venusaur.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/iiIbcHr.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Charmander&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/004_charmander.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/VZL8xQ2.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Charmeleon&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/005_charmeleon.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/vLvM7S2.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Charizard&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/006_charizard.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/Kc8YMCF.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Squirtle&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/007_squirtle.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/4eoVO3H.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Wartortle&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/008_wartortle.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/PGSaFgh.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Blastoise&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/009_blastoise.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/j67TBqO.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Caterpie&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/010_caterpie.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/THAcHmH.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Metapod&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/011_metapod.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/jRk9N1N.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Butterfree&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/012_butterfree.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/5SyyN48.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Weedle&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/013_weedle.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/2Yk4MKx.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table class=&quot;image&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;Kakuna&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/BrgZStB.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Beedrill&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/015_beedrill.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/C0aYsqK.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Pidgey&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/016_pidgey.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/A8RwHh6.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Pidgeotto&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/017_pidgeotto.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/cczJG0Y.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Pidgeot&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/018_pidgeot.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/minubNT.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Rattata&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/019_rattata_side.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/wTsFSii.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Raticate&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/020_raticate_side.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/dwWUTKZ.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Spearow&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/021_spearow.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/4An97M2.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Fearow&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/022_fearow.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/Xfju7cW.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Ekans&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/023_ekans_side.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/cYBRDoe.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Arbok&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/024_arbok_side.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/G8zvQOZ.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Pikachu&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/025_pikachu.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/5JwXp7p.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Raichu&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/026_raichu.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/QU8mxqA.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Sandshrew&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/027_sandshrew.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/MKUu74M.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Sandslash&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/028_sandslash.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/sfpgEzw.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Nidoran&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/029_nidoran_side.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/Mv5II20.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Nidorina&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/030_nidorina_side.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/4KE5G9x.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Nidoqueen&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/031_nidoqueen_side.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/9H01xaf.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Nidoran&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/032_nidoran.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/c3g2yy7.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Nidorino&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/033_nidorino.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/rC4gp2E.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Nidoking&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/034_nidoking.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/HCKsvNF.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Clefairy&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/035_clefairy.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/XSjjseV.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Clefable&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/036_clefable.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/84EL1Kd.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Vulpix&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/037_vulpix.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/USjSicm.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Ninetails&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/038_ninetails_top.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/b3EiAA0.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Jigglypuff&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/039_jigglypuff.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/SaTpGMj.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Wigglytuff&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/040_wigglytuff.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/xez9sWu.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Zubat&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/041_zubat.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/FcQaDYu.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Golbat&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/042_golbat.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/Xn9E0Nh.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Oddish&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/043_oddish.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/HdPwwlQ.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Gloom&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/044_gloom.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/0LarRkf.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Vileplume&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/045_vileplume.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/2rF5Lfr.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Paras&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/046_paras.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/UBcBjx5.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Parasect&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/047_parasect.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/3SYP00q.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Venonat&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/048_venonat.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/iEYl8Il.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Venomoth&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/049_venomoth.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/OShpwwq.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Diglett&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/050_diglett.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/F19wKIz.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Dugtrio&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/051_dugtrio.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/iiq6VLU.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Meowth&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/052_meowth.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/c8UsZHL.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Persian&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/053_persian.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/xxrdT2Q.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Psyduck&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/054_psyduck.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/eh4kNWc.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Golduck&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/055_golduck.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/5D9M9Ui.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Mankey&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/056_mankey.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/2RhsoKf.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Primeape&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/057_primeape.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/jgKl8Or.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Growlithe&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/058_growlithe_side.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/Pw2MYso.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Arcanine&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/059_arcanine_side.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/XeaTsNo.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Poliwag&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/60_poliwag.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/iogwMJi.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Poliwhirl&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/061_poliwhirl.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/9siPKGK.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Poliwrath&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/062_poliwrath.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/GhhihZ5.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Abra&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/063_abra.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/U0cuBla.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Kadabra&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/064_kadabra.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/tKcHR1X.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Alakazam&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/065_alakazam.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/QniJb99.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Machop&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/066_machop.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/lNXWbBC.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Machoke&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/067_machoke.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/NRtJ8Sl.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Machamp&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/068_machamp.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/jH7vAel.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Bellsprout&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/069_bellsprout.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/AZKsmO7.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Weepinbell&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/070_weepinbell.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/V79Xt1b.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Victreebell&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/071_victreebel.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/ZDAJh4I.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Tentacool&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/072_tentacool.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/jbN2zEF.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Tentacruel&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/073_tentacruel.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/KmI28Oo.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Geodude&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/074_geodude.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/WsObiGb.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Graveler&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/075_graveler.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/5fDGccL.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Golum&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/076_golum.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/dsi5NqR.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Slowpoke&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/079_slowpoke.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/QeHxym8.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Slowbro&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/80_slowbro.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/T78JfIA.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Magnemite&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/81_magnemite.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/ZZtQoIO.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Magneton&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/082_magneton.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/lWNYeuy.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Gengar&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/094_gengar_side.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/o2Nft5T.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Cubone&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/104_cubone.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/kG6CRnu.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Marowak&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/105_marowak.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/nTkc4tT.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Hitmonchan&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/107_hitmonchan.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/JIltOaR.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Rhydon&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/112_rhydon.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/Fzg63l8.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Kangaskhan&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/115_kangaskhan.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/7pGHd87.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Mr. Mime&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/122_mrmime.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/bcGV1VQ.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Scyther&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/123_scyther.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/RhyQWVT.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Pincer&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/127_pincer.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/TZQTjzA.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Magikarp&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/129_magikarp_side.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/49qoyFM.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Gyrados&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/130_gyrados.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/HBCCyz0.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Ditto&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/132_ditto.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/x1jNgcm.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Eevee&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/133_eevee.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/QnGlPzJ.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Vaporeon&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/134_vaporeon.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/BWdic9k.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Jolteon&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/135_jolteon.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/9Zp9AUA.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Flareon&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/136_flareon.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/yWxHL68.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Porygon&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/137_porygon.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/u9cVgVV.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Omanyte&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/138_omanyte.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/Aqgvio8.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Omastar&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/139_omastar.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/hAW3mdO.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Aerodactyl&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/142_aerodactyl.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/PoUfZRL.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Snorlax&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/143_snorlax.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/j509SQX.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Articuno&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/144_articuno.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/9HGx4UQ.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Zapdos&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/145_zapdos.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/uhUh88t.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Moltres&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/146_moltres.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/jyCtNPw.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Dratini&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/147_dratini.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/X3aklYM.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Dragonair&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/148_dragonair.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/r8LwSMJ.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Dragonite&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/149_dragonite.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/GKRrc7a.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Mewtwo&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/150_mewtwo.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/KcyyH7Q.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Mew&lt;/caption&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;/images/151_mew.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img class=&quot;lazy&quot; data-src=&quot;http://i.imgur.com/Jm5RZlt.png&quot; src=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 </description>
