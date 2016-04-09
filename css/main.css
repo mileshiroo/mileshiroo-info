@@ -159,6 +159,9 @@ th, td {
 .rect {
   padding-bottom: 62%; }
 
+.rect_thinner {
+  padding-bottom: 58%; }
+
 .video {
   position: absolute;
   top: 0;
