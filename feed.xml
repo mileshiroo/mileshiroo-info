@@ -5,8 +5,8 @@
     <description>Portfolio site of Miles Hiroo.</description>
     <link>http://mileshiroo.info/</link>
     <atom:link href="http://mileshiroo.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Apr 2016 00:21:04 +0800</pubDate>
-    <lastBuildDate>Mon, 11 Apr 2016 00:21:04 +0800</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2016 00:25:55 +0800</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 00:25:55 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -690,6 +690,20 @@ Ee Ja Nai Ka were carnivalesque celebrations that occurred at the end of the Edo
         <pubDate>Thu, 17 Mar 2016 00:00:00 +0800</pubDate>
         <link>http://mileshiroo.info/2016/03/17/eejanaika.html</link>
         <guid isPermaLink="true">http://mileshiroo.info/2016/03/17/eejanaika.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>ELIZA</title>
+        <description>&lt;div class=&quot;videocontainer rect&quot;&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/140146920?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The video is structured around a conversation with ELIZA, an early chatbot designed to simulate a psychotherapist. You can chat with ELIZA &lt;a href=&quot;masswerk.at/elizabot/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Feb 2016 00:00:00 +0800</pubDate>
+        <link>http://mileshiroo.info/2016/02/07/ELIZA.html</link>
+        <guid isPermaLink="true">http://mileshiroo.info/2016/02/07/ELIZA.html</guid>
         
         
       </item>
