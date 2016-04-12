@@ -5,8 +5,8 @@
     <description>Portfolio site of Miles Hiroo.</description>
     <link>http://mileshiroo.info/</link>
     <atom:link href="http://mileshiroo.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2016 22:50:22 +0800</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 22:50:22 +0800</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2016 22:52:04 +0800</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 22:52:04 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -664,8 +664,8 @@ Use this app to become self aware while you use your computer.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/29p28k2zwzi5usd/self-aware.zip?dl=0&quot;&gt;download Self Aware for OSX&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Mar 2016 00:00:00 +0800</pubDate>
-        <link>http://mileshiroo.info/selfaware/</link>
-        <guid isPermaLink="true">http://mileshiroo.info/selfaware/</guid>
+        <link>http://mileshiroo.info/self_aware/</link>
+        <guid isPermaLink="true">http://mileshiroo.info/self_aware/</guid>
         
         
       </item>
