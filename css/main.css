@@ -7,13 +7,17 @@ dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0; }
 
+html {
+  background-image: url(http://i.imgur.com/NMPjsL2.jpg);
+  background-size: 100%; }
+
 /**
  * Basic styling
  */
 body {
   font: 400 16px/1.5 Helvetica, Arial, sans-serif;
   color: #111;
-  background-color: #fdfdfd;
+  background-repeat: no-repeat;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -34,8 +38,16 @@ ul, ol, dl, figure,
  * Images
  */
 img {
+  box-shadow: 1px 1px 9px #999999;
   max-width: 100%;
-  vertical-align: middle; }
+  vertical-align: middle;
+  background-image: url(http://i.imgur.com/oWjpnlc.jpg);
+  background-size: 100% 100%; }
+
+iframe {
+  box-shadow: 1px 1px 9px #999999;
+  background-image: url(http://i.imgur.com/oWjpnlc.jpg);
+  background-size: 100% 100%; }
 
 /**
  * Figures
@@ -91,8 +103,7 @@ pre,
 code {
   font-size: 15px;
   border: 1px solid #9c9c9c;
-  border-radius: 3px;
-  background-color: #eef; }
+  border-radius: 3px; }
 
 code {
   padding: 1px 5px; }
@@ -176,7 +187,6 @@ th, td {
   min-height: 56px;
   position: relative;
   top: 20px;
-  background-color: #FFFFFF;
   box-shadow: 2px 2px 9px #999999;
   z-index: 5; }
 
@@ -211,8 +221,8 @@ th, td {
     color: #9c9c9c; }
 
 .site-posts {
-  font-size: 12px;
-  font-weight: 300; }
+  font-weight: 300;
+  font-size: 12px; }
   .site-posts a:link, .site-posts a:visited, .site-posts a:hover, .site-posts a:active {
     color: #9c9c9c; }
 
@@ -334,7 +344,8 @@ th, td {
 .post-link {
   display: block;
   font-size: 16px;
-  font-weight: 300; }
+  font-weight: 300;
+  box-shadow: 2px 2px 9px #999999; }
 
 /**
  * Posts
