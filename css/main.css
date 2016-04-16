@@ -8,7 +8,7 @@ dl, dd, ol, ul, figure {
   padding: 0; }
 
 html {
-  background-image: url(http://i.imgur.com/NMPjsL2.jpg);
+  background-image: url(http://i.imgur.com/kNgQrFI.jpg);
   background-size: 100%; }
 
 /**
@@ -16,7 +16,7 @@ html {
  */
 body {
   font: 400 16px/1.5 Helvetica, Arial, sans-serif;
-  color: #111;
+  color: #ffffff;
   background-repeat: no-repeat;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -38,15 +38,15 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-  box-shadow: 1px 1px 9px #999999;
+  box-shadow: 1px 1px 70px #1a1aff;
   max-width: 100%;
   vertical-align: middle;
-  background-image: url(http://i.imgur.com/oWjpnlc.jpg);
+  background-image: url(http://i.imgur.com/6rVHSlj.jpg);
   background-size: 100% 100%; }
 
 iframe {
-  box-shadow: 1px 1px 9px #999999;
-  background-image: url(http://i.imgur.com/oWjpnlc.jpg);
+  box-shadow: 1px 1px 70px #1a1aff;
+  background-image: url(http://i.imgur.com/6rVHSlj.jpg);
   background-size: 100% 100%; }
 
 /**
@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: gray;
+  color: white;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -187,12 +187,13 @@ th, td {
   min-height: 56px;
   position: relative;
   top: 20px;
-  box-shadow: 2px 2px 9px #999999;
+  box-shadow: 1px 1px 20px #000099;
   z-index: 5; }
 
 @media screen and (min-width: 800px) {
   .site-header {
-    position: fixed; } }
+    position: fixed;
+    left: 20px; } }
 .header-wrapper {
   max-width: -webkit-calc(500px - (30px * 2));
   max-width: calc(500px - (30px * 2));
@@ -211,20 +212,16 @@ th, td {
   font-size: 12px;
   line-height: 40px; }
   .site-title a:link, .site-title a:visited, .site-title a:hover, .site-title a:active {
-    color: #000000;
+    color: #ffffff;
     font-weight: 300; }
 
 .site-contact {
   font-size: 12px;
   font-weight: 300; }
-  .site-contact a:link, .site-contact a:visited, .site-contact a:hover, .site-contact a:active {
-    color: #9c9c9c; }
 
 .site-posts {
   font-weight: 300;
   font-size: 12px; }
-  .site-posts a:link, .site-posts a:visited, .site-posts a:hover, .site-posts a:active {
-    color: #9c9c9c; }
 
 .site-nav {
   float: right;
@@ -232,7 +229,7 @@ th, td {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #ffffff;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
