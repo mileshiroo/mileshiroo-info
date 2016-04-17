@@ -9,7 +9,8 @@ dl, dd, ol, ul, figure {
 
 html {
   background-size: 100%;
-  background-image: url(http://i.imgur.com/6rVHSlj.jpg); }
+  background-image: url(http://i.imgur.com/6rVHSlj.jpg);
+  background-color: #1a1aff; }
 
 /**
  * Basic styling
