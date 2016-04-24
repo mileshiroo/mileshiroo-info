@@ -177,6 +177,9 @@ th, td {
 .rect_thinner {
   padding-bottom: 58%; }
 
+.rect_thin_thin {
+  padding-bottom: 55%; }
+
 .video {
   position: absolute;
   top: 0;
