@@ -5,8 +5,8 @@
     <description>Portfolio site of Miles Hiroo.</description>
     <link>http://mileshiroo.info/</link>
     <atom:link href="http://mileshiroo.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Apr 2016 11:55:06 +0800</pubDate>
-    <lastBuildDate>Tue, 26 Apr 2016 11:55:06 +0800</lastBuildDate>
+    <pubDate>Tue, 26 Apr 2016 13:26:15 +0800</pubDate>
+    <lastBuildDate>Tue, 26 Apr 2016 13:26:15 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -61,20 +61,6 @@
         <pubDate>Thu, 21 Apr 2016 00:00:00 +0800</pubDate>
         <link>http://mileshiroo.info/simple-and-clean/</link>
         <guid isPermaLink="true">http://mileshiroo.info/simple-and-clean/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>pupa.xyz</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/R1eqD7G.png&quot; alt=&quot;pupa&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Interactive website, made while in residence at &lt;a href=&quot;http://scatter.nyc/&quot;&gt;Scatter&lt;/a&gt;. Click &lt;a href=&quot;http://pupa.xyz&quot;&gt;here..&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 21 Apr 2016 00:00:00 +0800</pubDate>
-        <link>http://mileshiroo.info/pupa/</link>
-        <guid isPermaLink="true">http://mileshiroo.info/pupa/</guid>
         
         
       </item>
@@ -705,6 +691,22 @@ $(function() {
         <pubDate>Thu, 31 Mar 2016 00:00:00 +0800</pubDate>
         <link>http://mileshiroo.info/pokemonbones/</link>
         <guid isPermaLink="true">http://mileshiroo.info/pokemonbones/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Underkey</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/students/miles/images/underkey-small.jpg&quot; alt=&quot;underkey&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;under the keys of a public keyboard&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/golanlevin/ExperimentalCapture/blob/master/students/miles/images/underkey.png&quot;&gt;full image (21.3 MB)&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 19 Mar 2016 00:00:00 +0800</pubDate>
+        <link>http://mileshiroo.info/underkey/</link>
+        <guid isPermaLink="true">http://mileshiroo.info/underkey/</guid>
         
         
       </item>
