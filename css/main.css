@@ -8,8 +8,9 @@ dl, dd, ol, ul, figure {
   padding: 0; }
 
 html {
-  background-size: 100%;
-  background-color: #000066; }
+  background-size: 10%;
+  background-color: #1a1aff;
+  background-image: url("http://i.imgur.com/Lal7a2C.jpg"); }
 
 /**
  * Basic styling
