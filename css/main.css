@@ -8,10 +8,7 @@ dl, dd, ol, ul, figure {
   padding: 0; }
 
 html {
-  background-size: 10%;
-  background-color: #1a1aff;
-  background-image: url("http://i.imgur.com/Lal7a2C.jpg");
-  background-attachment: fixed; }
+  background-color: #1a1aff; }
 
 /**
  * Basic styling
@@ -19,13 +16,16 @@ html {
 body {
   font: 400 16px/1.5 Helvetica, Arial, sans-serif;
   color: #ffffff;
-  background-repeat: no-repeat;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
-  font-kerning: normal; }
+  font-kerning: normal;
+  /* background-size: 10%;
+  background-attachment: fixed;
+  background-color: #1a1aff;
+  background-image: url("http://i.imgur.com/Lal7a2C.jpg"); */ }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
