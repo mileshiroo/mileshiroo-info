@@ -5,9 +5,20 @@
     <description>Portfolio site of Miles Hiroo.</description>
     <link>http://mileshiroo.info/</link>
     <atom:link href="http://mileshiroo.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 May 2016 01:12:49 +0800</pubDate>
-    <lastBuildDate>Wed, 11 May 2016 01:12:49 +0800</lastBuildDate>
+    <pubDate>Fri, 13 May 2016 01:47:02 +0800</pubDate>
+    <lastBuildDate>Fri, 13 May 2016 01:47:02 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>untaoeutled</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/8i3USj2.jpg&quot; alt=&quot;untaoeutled&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 May 2016 00:00:00 +0800</pubDate>
+        <link>http://mileshiroo.info/untaoeutled/</link>
+        <guid isPermaLink="true">http://mileshiroo.info/untaoeutled/</guid>
+        
+        
+      </item>
     
       <item>
         <title>breath, content (in-progress)</title>
@@ -136,20 +147,6 @@
         <pubDate>Sun, 10 Apr 2016 00:00:00 +0800</pubDate>
         <link>http://mileshiroo.info/untitledddd/</link>
         <guid isPermaLink="true">http://mileshiroo.info/untitledddd/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Search Inside Yourself</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/eQD9wx2.png&quot; alt=&quot;Search Inside Yourself&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/lysaNAQ.png&quot;&gt;full image&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 06 Apr 2016 00:00:00 +0800</pubDate>
-        <link>http://mileshiroo.info/searchinsideyourself/</link>
-        <guid isPermaLink="true">http://mileshiroo.info/searchinsideyourself/</guid>
         
         
       </item>
